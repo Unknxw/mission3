@@ -1,0 +1,2 @@
+rootProject.name='Suivi de vos frais'
+include ':app'
